@@ -7,6 +7,7 @@ namespace Application
         public static void Main(string[] args)
         {
             Console.WriteLine("CJCB GBGBCMRE");
+            Console.WriteLine("New add");
         }
     }
 }
