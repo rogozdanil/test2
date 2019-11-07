@@ -1,0 +1,5 @@
+/Users/danilka/Projects/2/3/bin/Debug/3.exe
+/Users/danilka/Projects/2/3/bin/Debug/3.pdb
+/Users/danilka/Projects/2/3/obj/anycpu/Debug/3.csprojAssemblyReference.cache
+/Users/danilka/Projects/2/3/obj/anycpu/Debug/3.exe
+/Users/danilka/Projects/2/3/obj/anycpu/Debug/3.pdb
